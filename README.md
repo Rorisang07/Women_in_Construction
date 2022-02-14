@@ -2,9 +2,6 @@
 This is a python-based Twitter Bot that likes and retweets tweets containing the hashtags "#WomeninConstruction, #WomeninQS, and #NewBuildingStructures." Its main objective is to encourage women to enter or continue working in the construction industry.
  [Here](https://twitter.com/WomenInConstru2) is the link to the Twitter Bot page .
 
-## Project Preview
-![Project Screenshot](images/screenshot.png)
-
 ## Languages Used
 - Python
 
